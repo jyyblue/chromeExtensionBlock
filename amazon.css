@@ -1,0 +1,8 @@
+#a-page {
+  height: 100vh;
+  background: #0f1110f0;
+}
+
+#pageContent ,.a-section, .copilot-secure-display, .navLeftFooter  {
+  display: none;
+}
